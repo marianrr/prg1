@@ -20,21 +20,24 @@
 
 // console.log(Name3("kikila", 55))
 
-class Name4 {
-    constructor(name) {
-        this.name = name
-    this.age = 99
-    }
-    get name() {
+// class Name4 {
+//     constructor(name) {
+//         this.name = name
+//     this.age = 99
+//     }
+//     get name() {
 
-        return this._name
-    }
+//         return this._name
+//     }
 
-set name(val) {
-this._name = val
-}
+// set name(val) {
+// this._name = val
+// }
 
     
-}
-const soto = new Name4("kikila", 55)
-console.log(soto.name)
+// }
+// const soto = new Name4("kikila", 55)
+// console.log(soto.name)
+
+
+
