@@ -1,5 +1,5 @@
-const Name = (name) => {
-    return name
+const Name = (name, age) => {
+    return name + " " + age
 }
 
-console.log(Name("Mili"))
+console.log(Name("Mili", 23))
